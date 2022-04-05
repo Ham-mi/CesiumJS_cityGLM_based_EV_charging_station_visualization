@@ -53,12 +53,12 @@ WebGL 기반 지도 Vworld 성능 향상을 위해 렌더링 속도 개선 및 �
 
 > 참고 자료
 
-[1] '브이월드3D지도서비스성능향상을위한3D타일적용방안연구'
-김태훈(Kim Tae Hoon),장한솔(Jang Han Sol),유성환(Yoo Sung Hwan),and 고준희(Go Jun Hee). "브이월드 3D 지도 서비스 성능 향상을 위한 3D 타일 적용 방안 연구." 대한공간정보학회지 25.1 (2017): 55-61.
+[1] '브이월드3D지도서비스성능향상을위한3D타일적용방안연구'<br>
+김태훈(Kim Tae Hoon),장한솔(Jang Han Sol),유성환(Yoo Sung Hwan),and 고준희(Go Jun Hee). "브이월드 3D 지도 서비스 성능 향상을 위한 3D 타일 적용 방안 연구." 대한공간정보학회지 25.1 (2017): 55-61. <br>
 http://www.riss.kr/search/detail/DetailView.do?p_mat_type=1a0202e37d52c72d&control_no=4ec6e9f65ef9a145c85d2949c297615a&keyword=%EB%B8%8C%EC%9D%B4%EC%9B%94%EB%93%9C
 
-[2] '브이월드서비스개선을위한사용자만족도조사및분석에관한연구'
-강진아,황정래,Kang Jin A,and Hwang Jung Rae. "브이월드 서비스 개선을 위한 사용자 만족도 조사 및 분석에 관한 연구." 한국공간정보학회지 22.6 (2014): 23-32.
+[2] '브이월드서비스개선을위한사용자만족도조사및분석에관한연구'<br>
+강진아,황정래,Kang Jin A,and Hwang Jung Rae. "브이월드 서비스 개선을 위한 사용자 만족도 조사 및 분석에 관한 연구." 한국공간정보학회지 22.6 (2014): 23-32.<br>
 http://www.riss.kr/search/detail/DetailView.do?p_mat_type=1a0202e37d52c72d&control_no=555c2fb23b6cf4547f7a54760bb41745&keyword=%EB%B8%8C%EC%9D%B4%EC%9B%94%EB%93%9C
 
 
