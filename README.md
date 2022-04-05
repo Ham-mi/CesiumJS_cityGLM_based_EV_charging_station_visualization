@@ -9,7 +9,7 @@ According to [1], the demand for 3D maps is increasing because they can be used 
 
  According to the online satisfaction survey of 1208 participants from December 26, 2013 to January 17, 2014 in [2], referring to Figure 1, the purpose of using V World, the use of 3D Open API service was the highest at 37%. However, 39% of the respondents said that it was difficult to use because of the slow rendering speed.
  
-> Research Theory Definition
+> Research Words Definition
 
 **Vworld** : Geospatial information open platform that gradually provides all publicly available geospatial information owned by the state to the public <br>
 **WebGL** : Web-based graphics library. It can be used through the JavaScript programming language and is provided to use interactive 3D graphics in a compatible web browser. <br>
@@ -22,7 +22,11 @@ According to [1], the demand for 3D maps is increasing because they can be used 
 4. Geospatial Information Industry Promotion Agency - Plan to participate in the **V-World Contest** for Geospatial Information Utilization Ideas
 5. **Writing a paper** on improving rendering speed and implementing it
 
+<br>
+
 ***
+
+<br>
 
 # WebGL 기반 지도 Vworld 렌더링 속도 개선
 WebGL 기반 지도 Vworld 성능 향상을 위해 렌더링 속도 개선 및 구현
@@ -35,7 +39,7 @@ WebGL 기반 지도 Vworld 성능 향상을 위해 렌더링 속도 개선 및 �
 
  [2]의 2013년 12월 26일부터 2014년 1월 17일까지 총 1208명이 참여한 온라인 만족도 설문조사에 따르면 브이월드를 사용하는 목적인 Figure 1을 참조하면 3D Open Api 서비스  이용이 37%로 가장 높은 비율을 차지하고 있지만 39%의 설문자들이 랜더링 속도가 느려 사용하기 어렵다는 의견을 냈다.
 
-> 연구 이론 정의
+> 연구 단어 정의
 
 **Vworld** : 국가가 보유하고 있는 공개 가능한 모든 공간정보를 점진적으로 국민에게 제공하는 공간정보 오픈플랫폼 <br>
 **WebGL** : 웹 기반의 그래픽 라이브러리. 자바스크립트 프로그래밍 언어를 통해서 사용할 수 있으며 호환성이 있는 웹 브라우저에서 인터랙티브한 3D 그래픽을 사용할 수 있도록 제공된다. <br>
@@ -48,6 +52,11 @@ WebGL 기반 지도 Vworld 성능 향상을 위해 렌더링 속도 개선 및 �
 3. 개선된 Vworld 와 기존 Vwolrd 비교 결과 분석
 4. 공간정보 산업 진흥원 - 브이월드 **공모전** 공간정보 활용 아이디어 부문 참가 예정
 5. 렌더링 속도 개선 및 구현에 관한 **논문 작성**
+
+> 참여시 참고 사항
+
+공모전과 논문은 **필수 참여가 아닙니다.** <br>
+기본적으로 미기재시 **불참**이며 참여를 원할 경우 issue 작성을 통해 공모전, 논문 **참여 여부**를 밝혀주시길 바랍니다.
 
 > 참고 자료
 
