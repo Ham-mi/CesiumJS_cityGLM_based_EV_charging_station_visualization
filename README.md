@@ -13,7 +13,6 @@ According to [1], the demand for 3D maps is increasing because they can be used 
 
 **Vworld** : Geospatial information open platform that gradually provides all publicly available geospatial information owned by the state to the public <br>
 **WebGL** : Web-based graphics library. It can be used through the JavaScript programming language and is provided to use interactive 3D graphics in a compatible web browser. <br>
-**bottleneck** : bottleneck. A part within a process that tends to slow down the entire process.
 
 > Implementation plans
 
@@ -40,7 +39,6 @@ WebGL 기반 지도 Vworld 성능 향상을 위해 렌더링 속도 개선 및 �
 
 **Vworld** : 국가가 보유하고 있는 공개 가능한 모든 공간정보를 점진적으로 국민에게 제공하는 공간정보 오픈플랫폼 <br>
 **WebGL** : 웹 기반의 그래픽 라이브러리. 자바스크립트 프로그래밍 언어를 통해서 사용할 수 있으며 호환성이 있는 웹 브라우저에서 인터랙티브한 3D 그래픽을 사용할 수 있도록 제공된다. <br>
-**bottleneck** : 병목 현상. 전체 처리 과정을 느리게 만드는 경향이 있는 프로세스 내의 한 부분.
 
 
 > 추진 계획
